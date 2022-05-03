@@ -41,3 +41,15 @@ app.delete('/usuario/:id',(req,res)=>{
 })
 
 
+/// Aula 03/05/2022
+
+// Começar com  $ npm init[terminal]
+// Cria o package.json
+// Instalar os pacotes
+    // $ npm install express   - Express serve para criação de servidores
+    // $ nom install -D nodemon - 
+    // Se precisar de desinstalar pacotes $npm remove NOME_DA_DEPENDENCIA
+    // Depois apagar o package-lock.json
+    // Depois instalar npm todos os pacotes que estão nas dependencias do package.json
+    // $ npm install  - Irá instalar todas as dependencias
+    
